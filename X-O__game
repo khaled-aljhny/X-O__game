@@ -128,3 +128,5 @@ for row in range(3):
 
 
 window.mainloop()
+
+#I hope it's a good game.
